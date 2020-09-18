@@ -2,7 +2,7 @@ import {
 	Object3D,
 	Scene,
 	Camera
-} from '../three/src/Three';
+} from THREE;
 
 export class CSS3DObject extends Object3D {
 

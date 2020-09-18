@@ -2,7 +2,7 @@ import {
 	Matrix4,
 	Object3D,
 	Vector3
-} from "../three/src/Three";
+} from THREE;
 /**
  * Based on http://www.emagix.net/academic/mscs-project/item/camera-sync-with-css3-and-webgl-threejs
  */
